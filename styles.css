@@ -1,0 +1,286 @@
+
+body {
+ margin-top: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px
+}
+
+.heart {
+margin-left: 20px;
+
+}
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 10px;
+  height: 30px;
+  margin: 0 auto;
+  font-family: "Open Sans","OpenSans",sans-serif !important;
+  font-size: 14px;
+  font-weight: lighter;
+
+
+
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: lighter;
+
+
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+
+
+
+}
+
+.top-left{
+  width: 300px;
+  height: 5px;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+
+
+}
+
+.logo {
+margin-left: 10px;
+height: 70px;
+width: 145px;
+margin-top: 10px;
+
+}
+
+.cabecera {
+  background: rgb(32, 101, 136);
+  color: white;
+  background-image: url("./images/city-scape.svg");
+  float: right;
+  width: 100%;
+  height: 400px;
+  margin: 0 auto;
+
+}
+
+.boton-uno{
+  color: white;
+  background-color: #f09233;
+  font-weight: 200;
+  border-radius: 20px;
+  padding: 7px 26px 8px 26px;
+  font-size: 18px;
+  font-family: "Open Sans","OpenSans",sans-serif;
+  margin-left: 140px;
+  border-color: #f09233;
+  border-style: none;
+
+
+}
+
+p {
+  font-family: "Open Sans","OpenSans",sans-serif;
+  margin-left:140px;
+  font-size: 18px;
+  font-weight: 100;
+
+}
+
+.learn-more {
+  font-weight: 400;
+}
+
+a {
+color: #e6e6e6;
+text-decoration: none;
+font-size: 16px;
+
+}
+h1 {
+  font-family: "Open Sans","OpenSans",sans-serif;
+  font-size: 48px;
+  font-weight: 200;
+  margin-left: 140px;
+}
+
+.dos {
+  color:white;
+  width: 100%;
+  margin: 0 auto;
+  background-color: rgb(39, 53, 71);
+  float: left;
+
+
+}
+
+.dos-img{
+  width: 560px;
+  height: 334px;
+  margin-top: 150px;
+  margin-left: 120px;
+  margin-right: 90px;
+  margin-bottom: 150px;
+  float: left;
+}
+.dos-lista{
+  font-family: "Open Sans","OpenSans",sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+  float: none;
+  margin-top: 0px;
+  line-height: 3;
+  padding-left: 790px;
+}
+
+.achedos {
+  font-family: "Open Sans","OpenSans",sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  float: none;
+  margin-top: 180px;
+
+}
+
+.boton-dos{
+  color: white;
+  background: rgb(203, 56, 55);
+  font-weight: 200;
+  border-radius: 20px;
+  padding: 7px 26px 8px 26px;
+  font-size: 18px;
+  font-family: "Open Sans","OpenSans",sans-serif;
+  border-color: #cb3837;
+  border-style: none;
+
+}
+
+.tres {
+  position:relative;
+
+}
+
+.tres-img {
+  width: 100%;
+  margin: 0 auto;
+  height: 500px;
+
+}
+.ache-dos {
+  color: white;
+  font-family: "Open Sans","OpenSans",sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  position: relative;
+  bottom: 420px;
+  left: 120px;
+
+}
+
+.parrafo {
+  font-family: "Open Sans","OpenSans",sans-serif;
+  font-weight: lighter;
+  color: white;
+  margin-left:140px;
+  font-size: 16px;
+  line-height: 1.35;
+  position: relative;
+  bottom: 420px;
+  left: -20px;
+}
+
+.boton-tres {
+  color: white;
+  background-color: rgb(49, 68, 88);
+  font-weight: 200;
+  border-radius: 20px;
+  padding: 7px 26px 8px 26px;
+  font-size: 18px;
+  font-family: "Open Sans","OpenSans",sans-serif;
+  border-color: #34495e;
+  position: relative;
+  bottom: 415px;
+  left: 120px;
+  border-style: none;
+}
+
+.ojo {
+   color: #373d48;
+  font-family: "Open Sans","OpenSans",sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  text-align: center;
+  margin-top: -160px;
+
+
+}
+
+.parrafo-dos{
+  font-family: "Open Sans","OpenSans",sans-serif;
+  font-weight: lighter;
+  color:#6d7986;
+  font-size: 16px;
+  margin-left: 200px;
+
+}
+.parte-uno{
+  font-family: "Open Sans","OpenSans",sans-serif;
+}
+
+.find {
+  float: left;
+  color: black;
+
+}
+
+.discover{
+  float: left;
+  color: black;
+
+}
+.build {
+  float: left;
+  color: black;
+
+}
+img {
+  margin-left: 200px;
+}
+
+h3 {
+  margin-left: 230px;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: "Open Sans","OpenSans",sans-serif;
+}
+
+.los {
+  text-align: center;
+  font-family: "Open Sans","OpenSans",sans-serif;
+  font-size: 16px;
+  line-height: 1.35;
+  color:#6d7986;
+}
+
+.las {
+  text-align: center;
+  font-family: "Open Sans","OpenSans",sans-serif;
+  font-size: 16px;
+  line-height: 1.35;
+  color:#6d7986;
+  margin-left: 160px;
+
+}
+a[href="https//:www.italki.com"] {
+  color: #cb3837;
+}
